@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "Universidad Carlos III de Madrid", url = "https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/PortadaMiniSiteA/1371229065435/" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "nico.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "nicolas.hernandez@uc3m.es"
