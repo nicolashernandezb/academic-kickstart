@@ -27,7 +27,7 @@ external_link = ""
   align='right'
 +++
 
-**"Kernel depth measures for functional data with applications in functional outlier detection."**
+<center>**"Kernel depth measures for functional data with applications in functional outlier detection."**</center>
 
 Joint with **Alberto Muñoz** & **Gabriel Martos**
 
