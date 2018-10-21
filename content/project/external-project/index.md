@@ -34,7 +34,7 @@ tags = ["Domain Selection", "Functional Time Series"]
 #</DIV>
 +++
 
-* <center>**"An RKHS model to forecast functional time series."**</center>
+* **"An RKHS model to forecast functional time series."**
 
 Joint with [**Jairo Cugliari**](http://eric.univ-lyon2.fr/~jcugliari/) & [**Julien Jacques**](http://eric.univ-lyon2.fr/~jjacques/)
 
