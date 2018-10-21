@@ -6,7 +6,7 @@ title = "Papers under review"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Kernel depth measures for functional data with applications in functional outlier detection."
+summary = "Kernel **depth measures** for functional data with applications in functional outlier detection."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
