@@ -16,8 +16,8 @@ tags = ["Domain Selection", "Functional Time Series"]
 #external_link = ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+# To use, add an image named `construction.jpg/png` to your project's folder. 
+[image]
   # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
   
