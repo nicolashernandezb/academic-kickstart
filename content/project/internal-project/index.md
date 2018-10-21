@@ -16,15 +16,15 @@ tags = ["Depth Measures"]
 external_link = ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+# To use, add an image named `review.jpg/png` to your project's folder. 
+[image]
   # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
-  align='right'
+
 +++
 
 <center>**"Kernel depth measures for functional data with applications in functional outlier detection."**</center>
