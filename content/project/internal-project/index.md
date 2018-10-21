@@ -29,7 +29,7 @@ external_link = ""
 
 <center>**"Kernel depth measures for functional data with applications in functional outlier detection."**</center>
 
-Joint with [**Alberto Muñoz**](http://portal.uc3m.es/portal/page/portal/dpto_estadistica/home/members/alberto_munoz_garcia) & [**Gabriel Martos**](https://www.utdt.edu/ver_contenido.php?id_contenido=16862&id_item_menu=27721)
+Joint with [**Alberto Muñoz**](https://www.researchgate.net/profile/Alberto_Munoz9) & [**Gabriel Martos**](https://www.utdt.edu/ver_contenido.php?id_contenido=16862&id_item_menu=27721)
 
 Submitted to: **_Tehcnometrics_** - ASA.
 
