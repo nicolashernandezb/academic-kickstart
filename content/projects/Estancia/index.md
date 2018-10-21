@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "External Project"
+title = "Forecasting Functional Time Series"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -10,16 +10,16 @@ summary = "An example of linking directly to an external project website using `
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Demo"]
+#tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+#external_link = "http://example.org"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+#[image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+#  caption = "Photo by Toa Heftiba on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
