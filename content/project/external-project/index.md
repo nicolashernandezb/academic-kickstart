@@ -6,7 +6,7 @@ title = "Papers In Progress"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "**Domain selection** for  Functional data. Forecast **functional time series**. "
+summary = " Inference porblems in functional data "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
