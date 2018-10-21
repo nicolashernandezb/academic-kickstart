@@ -22,8 +22,9 @@ publication = "In *Signal Analysis*, Entropy, 2018, 20(1), 33"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "<DIV align="justify">We propose a definition of entropy for stochastic processes. We provide a reproducing kernel Hilbert space model to estimate entropy from a random sample of realizations of a stochastic process, namely functional data, and introduce two approaches to estimate minimum entropy sets. These sets are relevant to detect anomalous or outlier functional data. A numerical experiment illustrates the performance of the proposed method; in addition, we conduct an analysis of mortality rate curves as an interesting application in a real-data context to explore functional anomaly detection.</DIV>"
-abstract_short = ""<DIV align="justify">We propose a definition of entropy for stochastic processes in a reproducing kernel Hilbert space model for functional data.</DIV>"
+abstract = " <DIV align="justify"> We propose a definition of entropy for stochastic processes. We provide a reproducing kernel Hilbert space model to estimate entropy from a random sample of realizations of a stochastic process, namely functional data, and introduce two approaches to estimate minimum entropy sets. These sets are relevant to detect anomalous or outlier functional data. A numerical experiment illustrates the performance of the proposed method; in addition, we conduct an analysis of mortality rate curves as an interesting application in a real-data context to explore functional anomaly detection. </DIV>"
+
+abstract_short = "<DIV align="justify">We propose a definition of entropy for stochastic processes in a reproducing kernel Hilbert space model for functional data.</DIV> "
 
 # Is this a selected publication? (true/false)
 selected = true
