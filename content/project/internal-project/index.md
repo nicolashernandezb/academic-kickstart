@@ -1,37 +1,50 @@
 +++
 # Project title.
-title = "Internal Project"
+title = "Papers under review"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = "Kernel depth measures for functional data with applications in functional outlier detection."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Deep Learning"]
+tags = ["Depth Measures"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+#[image]
   # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
+#  caption = "Photo by rawpixel on Unsplash"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+**"Kernel depth measures for functional data with applications in functional outlier detection."**
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Joint with **Alberto Muñoz** & **Gabriel Martos**
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+In the last years the concept of data depth has been increasingly used in Statistics and related
+fields, as a center-outward ordering metric for multivariate and functional data sets. Many of
+the functional measures operate directly on the raw representation of the data which somehow
+contradicts its functional nature and also presents some weaknesses. In this paper we introduce
+kernel depth measures for functional data, i.e. realizations of a stochastic process, represented
+in a Reproducing Kernel Hilbert Space. Through this representation, complex objects such as
+time series and images are transformed into points in finite dimensional Euclidean spaces. We
+propose a general depth measure, the Generalized Kernel Depth (GKD), valid for univariate and
+multivariate functional data, i.e. time series and images respectively. We prove that the pro-
+posed measure fulfils several desirable theoretical properties. Simulations results demonstrate
+that GKD works considerably better than other depth measures when the goal is to identify
+anomalous or outlier observations in non-Gaussian scenarios. Additionally we conduct several
+analyses of mortality rate curves, images processing, and biometric data as interesting applica-
+tions of functional outlier detection.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+**Keywords:** Kernel Depth, Functional data, RKHS, Outlier detection, Mortality curves, Image
+processing, Biometric data.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
