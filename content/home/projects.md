@@ -34,12 +34,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Depth Measures"
+  tag = "Depth Measures"
+  
+  [[filter]]
+  name = "Domain Selection"
+  tag = "Domain Selection"
 
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Functional Time Series"
+  tag = "Functional Time Series"
 
 +++
 
