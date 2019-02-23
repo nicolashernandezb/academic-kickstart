@@ -22,7 +22,7 @@ publication = "In *Artificial Neural Networks and Machine Learning – ICANN 201
 publication_short = "LNCS, vol 9887."
 
 # Abstract and optional shortened version.
-abstract = "In the last years the concept of data depth has been increasingly used in Statistics as a center-outward ordering of sample points in multivariate data sets. Data depth has been recently extended to functional data. In this paper we propose a new intrinsic functional data depth based on the representation of functional data on Reproducing Kernel Hilbert Spaces, and test its performance against a number of well known alternatives in the problem of functional outlier detection.."
+abstract = "In the last years the concept of data depth has been increasingly used in Statistics as a center-outward ordering of sample points in multivariate data sets. Data depth has been recently extended to functional data. In this paper we propose a new intrinsic functional data depth based on the representation of functional data on Reproducing Kernel Hilbert Spaces, and test its performance against a number of well known alternatives in the problem of functional outlier detection."
 abstract_short = "In this paper we propose a new intrinsic functional data depth based on the representation of functional data on Reproducing Kernel Hilbert Spaces."
 
 # Is this a selected publication? (true/false)
