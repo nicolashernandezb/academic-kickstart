@@ -31,7 +31,7 @@ external_link = ""
 
 Joint with [**Alberto Muñoz**](https://www.researchgate.net/profile/Alberto_Munoz9) & [**Gabriel Martos**](https://www.utdt.edu/ver_contenido.php?id_contenido=16862&id_item_menu=27721)
 
-Submitted to: **_SIAM Journal on Mathematics of Data Science_**
+Submitted to: **_Pattern Recognition Journal_**
 
 <DIV align="justify">
 In the last years the concept of data depth has been increasingly used in Statistics and related fields, as a center-outward ordering metric for multivariate and functional data sets. Many of the functional measures operate directly on the raw representation of the data which somehow contradicts its functional nature and also presents some weaknesses. In this paper we introduce kernel depth measures for functional data, i.e. realizations of a stochastic process, represented in a Reproducing Kernel Hilbert Space. Through this representation, complex objects such as time series and images are transformed into points in finite dimensional Euclidean spaces. We propose a general depth measure, the Generalized Kernel Depth (GKD), valid for univariate and multivariate functional data, i.e. time series and images respectively. We prove that the proposed measure fulfils several desirable theoretical properties. Simulations results demonstrate that GKD works considerably better than other depth measures when the goal is to identify anomalous or outlier observations in non-Gaussian scenarios. Additionally we conduct several analyses of mortality rate curves, images processing, and biometric data as interesting applications of functional outlier detection. 
