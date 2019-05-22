@@ -19,7 +19,8 @@ weight = 60
 
 I am a teaching instructor for the following courses:
 
-- Statistics. Engineering Program for International Students.
+- Inferential Statistics. Engineering Program for International Students.
+- Statistics. BA in Business Administration
 - Quantitative Methods in Management. Master in Business Administration.
 - Prediction Techniques. Bsc in Statistics; International Studies.
 - Time Series Econometrics. Bsc in Statistics; Finance and Accounting.
