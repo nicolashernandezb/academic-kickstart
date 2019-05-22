@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD (cand.) in Statistics"
+  course = "PhD (cand.) in Applied Mathematics"
   institution = "Universidad Carlos III de Madrid"
   year = 2019
 
