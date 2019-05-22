@@ -6,7 +6,7 @@ title = "Papers under review"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Kernel **depth measures** for functional data with applications in functional outlier detection."
+summary = "Kernel **depth measures** and **Domain Selection** for functional data."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -30,8 +30,6 @@ external_link = ""
 
 * **"Boosting classification performance for functional time series: A domain selection approach."**
 
-# <center>**"Boosting classification performance for functional time series: A domain selection approach."**</center>
-
 Joint with [**Alberto Muñoz**](https://www.researchgate.net/profile/Alberto_Munoz9) & [**Gabriel Martos**](https://www.utdt.edu/ver_contenido.php?id_contenido=16862&id_item_menu=27721)
 
 Submitted to: **_Journal of Automatica Sinica_**
@@ -45,7 +43,7 @@ reducing, at the same time, the computational burden of several functional class
 **Keywords:** *Domain selection; Mutual Information; functional time series; Kullback–Leibler divergence; supervised learning.*
 
 * **"Kernel depth measures for functional data with applications in functional outlier detection."**
-#<center>**"Kernel depth measures for functional data with applications in functional outlier detection."**</center>
+
 
 Joint with [**Alberto Muñoz**](https://www.researchgate.net/profile/Alberto_Munoz9) & [**Gabriel Martos**](https://www.utdt.edu/ver_contenido.php?id_contenido=16862&id_item_menu=27721)
 
