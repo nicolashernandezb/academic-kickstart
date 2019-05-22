@@ -37,5 +37,5 @@ weight = 5
 # Biography
 
 <DIV align="justify">
- I am a PhD candidate in Statistics Department at Universidad Carlos III de Madrid. I have a broad interest in applied Mathematics and computational Statistics. In particular, my research is methodologically-oriented, with a focus on functional data analysis, kernel learning methods, Data Mining, Machine Learning and statistical computing with applications in several areas such as health, demography, technology and economics.
+ I am a PhD candidate in Applied Mathematics at the Statistics Department of Universidad Carlos III de Madrid. I have a broad interest in applied Mathematics and computational Statistics. In particular, my research is methodologically-oriented, with a focus on high-dimensional and functional data analysis, Information Theory, Data Mining, Machine Learning, Statistical Computing and Bayesian Statistics with applications in several areas such as health, demography, technology and economics.
 </DIV>
