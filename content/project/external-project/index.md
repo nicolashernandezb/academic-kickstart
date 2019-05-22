@@ -28,9 +28,9 @@ tags = ["Domain Selection", "Functional Time Series"]
 
 +++
 
-* **"A domain selection approach to boost classification problems in Functional data."**
+* **"Domain selection in Functional data: a Bayesian approach"**
 
-Joint with [**Gabriel Martos**](https://www.utdt.edu/ver_contenido.php?id_contenido=16862&id_item_menu=27721)
+Joint with [**Gabriel Martos**](https://www.utdt.edu/ver_contenido.php?id_contenido=16862&id_item_menu=27721) & [**Miguel de Carvalho**](https://www.maths.ed.ac.uk/school-of-mathematics/people?person=562)
 
 <DIV align="justify">
 To improve the performance of supervised methodologies, such as classification, a possible approach is feature selection. This procedure can be developed by selecting points in the domain that have more effect in the response variable (binary) or by defining domain intervals for which the classes of functions present more differences. Under this approach we are developing a novel methodolgy to identify which is the optimal domain that better discriminates the classes of functions.
