@@ -13,7 +13,8 @@ weight = 5
     "Functional Data Analysis",
     "Statistical Computing",
     "Kernel Lerning Methods",
-    "Machine Learning"
+    "Machine Learning",
+    "Bayesian Statistics"
   ]
 
 # List your qualifications (such as academic degrees).
