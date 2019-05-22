@@ -40,8 +40,6 @@ reducing, at the same time, the computational burden of several functional class
 
 **Keywords:** *Domain selection; Mutual Information; functional time series; Kullback–Leibler divergence; supervised learning.*
 
-+++
-
 <center>**"Kernel depth measures for functional data with applications in functional outlier detection."**</center>
 
 Joint with [**Alberto Muñoz**](https://www.researchgate.net/profile/Alberto_Munoz9) & [**Gabriel Martos**](https://www.utdt.edu/ver_contenido.php?id_contenido=16862&id_item_menu=27721)
